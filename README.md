@@ -1,7 +1,5 @@
 - 👋Hello there! I'm Miguel!
--  A trainee Front-end developer excited about creating engaging digital experiences, currently diving into the world of programming, focusing for now on HTML, CSS, React, JavaScript and also learning some back-end.
-As a beginner, I'm eager to learn and grow in the field. I'm embracing the challenges and opportunities that come with developing user-friendly websites.
- Collaboration is essential to me, I enjoy working and learning with partners how to bring ideas to life.
-I'm dedicated to continuous improvement, staying curious and adaptable. If you're looking for a motivated and creative individual to join your team, let's connect!
- I'm excited to explore how we can collaborate and create impactful digital solutions and learn together!!!
+-  Passionate junior front-end developer with a focus on creating engaging and functional user experiences. My background includes leading teams and contributing to both front-end and back-end development. In these projects, I've worked with technologies such as HTML, CSS, JavaScript, and Node.js, implementing creative and efficient solutions.
+My love for coding is complemented by my language skills, as I am fluent in both English and German. This enables me to effectively collaborate in international teams and understand the needs of a global audience.
+I am committed to continuing my career growth as a front-end developer, constantly learning and staying up-to-date with the latest trends and technologies. I'm eager to contribute my expertise and skills to the development of innovative solutions that enhance the user experience and drive successful projects forward.
 
